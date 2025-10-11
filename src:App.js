@@ -287,7 +287,7 @@ const Contact = () => {
 
 const Footer = () => (
   <footer className="border-t">
-    <Section className="py-10 flex flex-col sm:flex-row items-center justify-between gap-4">
+    <Section className="py-10 flex flex-col sm:flex-row items-center ¸ustify-between gap-4">
       <div className="text-sm text-muted-foreground">© {new Date().getFullYear()} YourBrand. All rights reserved.</div>
       <div className="flex items-center gap-6 text-sm">
         <a href="#" className="text-muted-foreground hover:text-foreground">Privacy</a>
